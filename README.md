@@ -1,3 +1,3 @@
-# ALP-CODE-1
+# ALP-CODE
 Assembly Language Program
 
